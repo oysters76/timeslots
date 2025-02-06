@@ -19,14 +19,17 @@ The implementations are in ruby & c.
 
 C:
 
-real	0m0.002s
+~~~
+real	0m0.002s 
 user	0m0.001s
 sys	0m0.002s
+~~~
 
 Ruby:
 
+~~~
 real	0m0.063s
 user	0m0.047s
 sys	0m0.016s
-
+~~~
 
